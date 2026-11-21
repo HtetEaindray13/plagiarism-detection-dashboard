@@ -1,0 +1,24 @@
+# Python
+backend/.venv/
+backend/__pycache__/
+*.py[cod]
+
+# Local app data
+backend/app.db
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# Frontend dependencies and builds
+frontend/node_modules/
+frontend/dist/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
