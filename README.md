@@ -102,6 +102,3 @@ The application stores its SQLite database at `backend/app.db` and uploaded file
 
 Do not use the heuristic scores as the sole basis for disciplinary or academic decisions.
 
-## License
-
-Add the project license here if this repository will be shared or distributed publicly.
